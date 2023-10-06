@@ -1,3 +1,10 @@
 body {
     background-color: #2d3436; 
 }
+
+.div-jumbotron {
+    background-image: url(/images/slider-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem 0;
+}
