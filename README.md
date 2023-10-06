@@ -1,7 +1,7 @@
 # Koniya restaurants
 
 ## Logo of the franchise
-![logo](/images/koniya-logo.png)
+![logo](/images/koniya-readme.png)
 
 Responsive restaurant website project with at least five accessible pages: welcome, menu, pictures, restaurants and contact. 
 
