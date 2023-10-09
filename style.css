@@ -3,7 +3,7 @@ body {
 }
 
 .div-jumbotron {
-    background-image: url(/images/slider-1.png);
+    background-image: url(./images/slider-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 7rem 0;
@@ -22,15 +22,15 @@ body {
 }
 
 .banner-menu {
-    background-image: url(/images/banner.png);
+    background-image: url(./images/banner.png);
 }
 
 .banner-gallery {
-    background-image: url(/images/banner-gallery.png);
+    background-image: url(./images/banner-gallery.png);
 }
 
 .banner-restaurant {
-    background-image: url(/images/banner-restaurant.png);
+    background-image: url(./images/banner-restaurant.png);
 }
 
 .card-home-page {
