@@ -59,22 +59,22 @@
             </div>
 
             <div class="col-md-6 pb-4 mb-5">
-                <form>
+                <form id="form">
                     <div class="mb-3">
                         <label for="firstname" class="form-label">Firstname</label>
-                        <input type="text" class="form-control" id="firstname" name="firstname">
+                        <input type="text" class="form-control" id="firstname" name="firstname" required>
                     </div>
                     <div class="mb-3">
                         <label for="lastname" class="form-label">Lastname</label>
-                        <input type="password" class="form-control" id="lastname" name="lastname">
+                        <input type="text" class="form-control" id="lastname" name="lastname" required>
                     </div>
                     <div class="mb-3">
                         <label for="email" class="form-label">Email address</label>
-                        <input type="email" class="form-control" id="email">
+                        <input type="email" class="form-control" id="email" name="email" required>
                     </div>
                     <div class="mb-3">
                         <label for="subject" class="form-label">Subject</label>
-                        <select class="form-select" aria-label="Default select example">
+                        <select class="form-select" id="subject" name="subject" required>
                             <option selected>Subject</option>
                             <option value="booking">Booking</option>
                             <option value="information">Information</option>
@@ -83,10 +83,12 @@
                     </div>
                     <div class="mb-3">
                         <label for="message" class="form-label">Your message</label>
-                        <textarea class="form-control" id="message" rows="5" placeholder="Your message here ..."></textarea>
+                        <textarea class="form-control" id="message" name="message" required rows="5" placeholder="Your message here ..."></textarea>
                     </div>
                     <div class="col-lg-2 mt-4 mb-4">
-                        <i class="fa-solid fa-paper-plane" type="submit" style="color: #f1c40f; font-size: 3rem;"></i></button>
+                        <button type="submit" class="d-grid gap-2 col-lg-2" style="background: none; border: none;">
+                            <i class="fa-solid fa-paper-plane" style="color: #f1c40f; font-size: 3rem;"></i>
+                        </button>
                     </div>
                 </form>
             </div>
