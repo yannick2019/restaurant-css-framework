@@ -10,7 +10,7 @@ body {
     background-image: url(./images/slider-1.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 10rem 0 7rem 0;
+    padding: 16rem 0 10rem 0;
 }
 
 .btn-jumbotron:hover {
