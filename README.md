@@ -13,15 +13,6 @@ Click here to see the live version [Koniya restaurant](https://yannick2019.githu
 - JavaScript (For the GDPR cookie banner)
 - Bootstrap
 
-## Screen shot of the mobile version
-Welcome page of the mobile version
-
-![mobile version 1](/images/mobile-version-1-removebg-preview.png)
-
-![mobile version 2](/images/mobile-version-2-removebg-preview.png)
-
-![mobile version 2](/images/mobile-version-3.png)
-
 ## Screen shot on large screen
 Welcome page on large screen
 
